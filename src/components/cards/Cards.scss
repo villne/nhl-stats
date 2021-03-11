@@ -1,0 +1,17 @@
+.form-container {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+  justify-content: space-evenly;
+  padding-top: 20vh;
+  padding-bottom: 20vh;
+}
+
+.right-arrow {
+  order: 2;
+}
+
+.left-arrow {
+  order: 0;
+}
